@@ -1,0 +1,27 @@
+{
+  "name": "testrtc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "jsqr": "^1.4.0",
+    "pngjs": "^6.0.0",
+    "socket.io": "^1.2.0",
+    "socket.io-client": "^4.1.2",
+    "webrtc-adapter": "^8.0.0",
+    "wrtc": "^0.4.7",
+    "yuv-buffer": "^1.0.0",
+    "yuv-canvas": "^1.2.7"
+  },
+  "devDependencies": {
+    "@types/socket.io": "^3.0.2"
+  }
+}
